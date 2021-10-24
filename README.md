@@ -1,4 +1,5 @@
-This is my university's final year project.                                                                                                                              Universities can properly manage their online courses using this system.
+This is my university's final year project.
+Universities can properly manage their online courses using this system.
 There are five levels of access in this system.
 1- Super Admin.
 2- Staff.
