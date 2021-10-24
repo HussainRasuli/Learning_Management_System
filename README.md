@@ -1,4 +1,4 @@
-This is my university's final year project.
+    This is my university's final year project.
 Universities can properly manage their online courses using this system.
 
 There are five levels of access in this system.
@@ -13,7 +13,7 @@ There are five levels of access in this system.
 
 5- Student.
 
-This system's capabilities are as follows.
+    This system's capabilities are as follows.
 
 1- We can store information about staff, teachers, and students.
 
@@ -29,7 +29,7 @@ This system's capabilities are as follows.
 
 7- Including a Notifications section to notify users when lessons are uploaded and homework is assigned.
 
-The following technologies were used to build this project.
+    The following technologies were used to build this project.
 
 1- Laravel version 7
 
